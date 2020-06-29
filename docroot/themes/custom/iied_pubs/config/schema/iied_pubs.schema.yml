@@ -1,0 +1,5 @@
+# Schema for the configuration files of the IIED Pubs theme.
+
+iied_pubs.settings:
+  type: theme_settings
+  label: 'IIED Pubs settings'

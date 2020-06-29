@@ -103,6 +103,7 @@ class ComposerStaticInit7376e166806aa5d664ccbd35d60d770b
         ),
         'D' => 
         array (
+            'Drush\\Commands\\radix\\' => 21,
             'Drupal\\Driver\\' => 14,
             'Drupal\\Core\\' => 12,
             'Drupal\\Composer\\Plugin\\VendorHardening\\' => 39,
@@ -285,6 +286,10 @@ class ComposerStaticInit7376e166806aa5d664ccbd35d60d770b
         'Egulias\\EmailValidator\\' => 
         array (
             0 => __DIR__ . '/..' . '/egulias/email-validator/EmailValidator',
+        ),
+        'Drush\\Commands\\radix\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/themes/contrib/radix/Commands/radix',
         ),
         'Drupal\\Driver\\' => 
         array (

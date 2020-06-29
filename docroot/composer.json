@@ -20,7 +20,8 @@
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-recommended": "^8.8",
         "drupal/core-vendor-hardening": "^8.8",
-        "drupal/pathauto": "^1.8"
+        "drupal/pathauto": "^1.8",
+        "drupal/radix": "^4.8"
     },
     "require-dev": {
         "drupal/config_devel": "^1.7",

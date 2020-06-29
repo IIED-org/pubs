@@ -1,0 +1,10 @@
+style:
+  version: VERSION
+  css:
+    theme:
+      assets/css/iied_pubs.style.css: {}
+  js:
+    assets/js/iied_pubs.script.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
